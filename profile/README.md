@@ -20,11 +20,12 @@ CALM began as a bachelor thesis at TU Berlin and has grown into an open source s
 | Repository | What it is |
 |---|---|
 | [ride-models-matlab](https://github.com/CALM-Dataset/ride-models-matlab) | Quarter-car and half-car ride models for MATLAB and Simulink |
-| CALM | The simulator and the planners |
+| [CALM](https://github.com/CALM-Dataset/CALM) | The simulator and the planners: the Gymnasium environment, the acados MPC, the PPO policy and the reactive driver |
+| [CALM wiki](https://github.com/CALM-Dataset/CALM/wiki) | Documentation of the simulator, the vehicle models, the comfort metric, the planners and the dataset format |
 
 ## Models and data
 
-The trained models and datasets are published on [Hugging Face](https://huggingface.co/CALM-Dataset) under the CALM-Dataset organisation.
+The trained models and datasets are published on [Hugging Face](https://huggingface.co/CALM-Dataset) under the CALM-Dataset organization.
 
 | Name | Type | Contents | Access |
 |---|---|---|---|
@@ -33,6 +34,6 @@ The trained models and datasets are published on [Hugging Face](https://huggingf
 | [CALM-Germany](https://huggingface.co/datasets/CALM-Dataset/CALM-Germany) | Dataset | 114 crossings with camera, depth and sensor recordings | On request |
 | [CALM-Italy](https://huggingface.co/datasets/CALM-Dataset/CALM-Italy) | Dataset | 45 crossings with camera, depth and sensor recordings | On request |
 
-## Acknowledgements
+## Acknowledgments
 
 The real-road recordings build on the [CARD dataset](https://huggingface.co/CARD-Data) ([Elazab et al., CVPR 2026](https://arxiv.org/abs/2605.05014)).
