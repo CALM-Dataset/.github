@@ -24,7 +24,7 @@ CALM began as a bachelor thesis at TU Berlin and has grown into an open source s
 
 ## Models and data
 
-The trained models and datasets are published on [Hugging Face](https://huggingface.co/CALM-Dataset) under the CALM-Dataset organisation.
+The trained models and datasets are published on [Hugging Face](https://huggingface.co/CALM-Dataset) under the CALM-Dataset organization.
 
 | Name | Type | Contents | Access |
 |---|---|---|---|
