@@ -5,7 +5,7 @@
 
 Every driver knows the moment. A speed bump comes up, you have half a second to decide, and the car answers with a jolt that should have been a ripple. CALM is an open research project about that decision: how a car can read the road ahead and ease off by exactly as much as the bump deserves, so the people inside barely notice it.
 
-CALM began as a bachelor thesis at TU Berlin and has grown into an open source stack for comfort-aware speed recommendation. It contributes:
+CALM began as a [bachelor thesis](https://doi.org/10.14279/depositonce-26841) at TU Berlin and has grown into an open source stack for comfort-aware speed recommendation. It contributes:
 
 - **An open source software stack for the slowdown-depth decision:** a half-car simulator with nonlinear suspension, a Gymnasium environment, an acados MPC, a PPO policy and ISO 2631-1 comfort scoring.
 - **The CALM dataset:** 159 real bump crossings from [CARD](https://huggingface.co/CARD-Data) (114 Germany, 45 Italy; 105 usable), an extended real-time dataset for comfort.
